@@ -62,14 +62,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-DarwinCF-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:darwinflorezcardenas@gmail.com" target="_blank">
- <img src="https://img.shields.io/badge/Gmail-Contactar-red?style=for-the-badge&logo=gmail&logoColor=white" />
+
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="400" />
+<img src="https://img.shields.io/badge/Gmail-Enviar%20Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>
 
 ---
