@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-DarwinCF-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:darwinflorezcardenas@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Enviar%20Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+ <img src="https://img.shields.io/badge/Gmail-Contactar-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
