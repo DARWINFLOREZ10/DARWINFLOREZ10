@@ -58,10 +58,10 @@
 ## 🤝 Conectemos
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/darwincf/" target="_blank">
+  <a href="https://www.linkedin.com/in/darwin-c%C3%A1rdenas-8a921a374/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-DarwinCF-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tu.correo@gmail.com" target="_blank">
+  <a href="mailto:darwinflorezcardenas@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Enviar%20Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
