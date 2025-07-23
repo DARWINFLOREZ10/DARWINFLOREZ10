@@ -1,7 +1,4 @@
-from pathlib import Path
 
-# Contenido actualizado del README con el correo visible al lado del logo de Gmail
-readme_contact_simple = """
 <h1 align="center"><b>Hello, I'm Darwin Cárdenas Flórez</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
@@ -12,7 +9,7 @@ readme_contact_simple = """
 
 ---
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="40px"> About Me
+
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"> </picture>
 
