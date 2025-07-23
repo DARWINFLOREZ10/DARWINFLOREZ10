@@ -62,20 +62,22 @@
   <a href="https://www.linkedin.com/in/darwin-c%C3%A1rdenas-8a921a374/">
     <img src="https://img.shields.io/badge/LinkedIn-DarwinCF-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
 
-<div align="center">
-  <p><strong>📬 Mail</strong></p>
-  <code style="font-size: 1.1em; padding: 8px 16px; border-radius: 8px; background-color: #1f2937; color: white;">
+  <h3 align="left">📬 Mail</h3>
+
+<p align="left">
+  <img src="https://img.icons8.com/ios-glyphs/30/36BCF7/email.png" width="20"/>
+  <code style="font-size: 1.1em; padding: 6px 10px; border-radius: 6px; background-color: #1f2937; color: white;">
     darwinflorezcardenas@gmail.com
   </code>
-  <br><br>
-  <a href="mailto:darwinflorezcardenas@gmail.com" style="text-decoration: none;">
-    <img src="https://img.icons8.com/ios-filled/24/36bcf7/filled-sent.png" alt="Send email" />
+  <a href="mailto:darwinflorezcardenas@gmail.com">
+    <img src="https://img.icons8.com/ios-glyphs/30/36BCF7/filled-sent.png" title="Send Email" width="20" />
   </a>
-  &nbsp;&nbsp;
-  <img src="https://img.icons8.com/ios-glyphs/24/36bcf7/copy.png" alt="Copy" title="Copy manually" />
+</p>
+
 </div>
+
+
 
 ---
 
