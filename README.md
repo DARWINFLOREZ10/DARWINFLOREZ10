@@ -1,4 +1,7 @@
+from pathlib import Path
 
+# Contenido actualizado del README con el correo visible al lado del logo de Gmail
+readme_contact_simple = """
 <h1 align="center"><b>Hello, I'm Darwin Cárdenas Flórez</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
@@ -59,25 +62,13 @@
 ## 🤝 Let's Connect
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/darwin-c%C3%A1rdenas-8a921a374/">
+  <a href="https://www.linkedin.com/in/darwincf/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-DarwinCF-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  <h3 align="left">📬 Mail</h3>
-
-<p align="left">
-  <img src="https://img.icons8.com/ios-glyphs/30/36BCF7/email.png" width="20"/>
-  <code style="font-size: 1.1em; padding: 6px 10px; border-radius: 6px; background-color: #1f2937; color: white;">
-    darwinflorezcardenas@gmail.com
-  </code>
-  <a href="mailto:darwinflorezcardenas@gmail.com">
-    <img src="https://img.icons8.com/ios-glyphs/30/36BCF7/filled-sent.png" title="Send Email" width="20" />
-  </a>
-</p>
-
+  <p>
+    <img src="https://img.shields.io/badge/Gmail-%20darwinflorezcardenas@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </p>
 </div>
-
-
 
 ---
 
@@ -92,7 +83,7 @@
 </div>
 """
 
-# Guardar el archivo traducido y corregido como README_EN.md
-readme_en_path = Path("/mnt/data/README_EN.md")
-readme_en_path.write_text(readme_content_en, encoding='utf-8')
-readme_en_path
+# Guardar el nuevo archivo
+readme_final_path = Path("/mnt/data/README_EN_FINAL.md")
+readme_final_path.write_text(readme_contact_simple, encoding='utf-8')
+readme_final_path
