@@ -62,9 +62,19 @@
   <a href="https://www.linkedin.com/in/darwin-c%C3%A1rdenas-8a921a374/">
     <img src="https://img.shields.io/badge/LinkedIn-DarwinCF-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:darwinflorezcardenas@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</div>
+
+<div align="center">
+  <p><strong>📬 Mail</strong></p>
+  <code style="font-size: 1.1em; padding: 8px 16px; border-radius: 8px; background-color: #1f2937; color: white;">
+    darwinflorezcardenas@gmail.com
+  </code>
+  <br><br>
+  <a href="mailto:darwinflorezcardenas@gmail.com" style="text-decoration: none;">
+    <img src="https://img.icons8.com/ios-filled/24/36bcf7/filled-sent.png" alt="Send email" />
   </a>
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios-glyphs/24/36bcf7/copy.png" alt="Copy" title="Copy manually" />
 </div>
 
 ---
