@@ -1,4 +1,3 @@
-
 <h1 align="center"><b>Hello, I'm Darwin Cárdenas Flórez</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
@@ -9,16 +8,16 @@
 
 ---
 
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="40px"> About Me
 
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"> </picture>
 
-- 🎓 Software development student
-- 💻 Focused on **Java, HTML, CSS, and Python**
-- 🚀 Currently learning JavaScript, Bootstrap, Tailwind, and modern web development
-- 📚 Passionate about logic, organization, and self-learning
-- 💼 Actively seeking internship opportunities in software development
-- 🧠 Interested in personal growth, productivity, and long-term investing
+- 🎓 Software development student  
+- 💻 Focused on **Java, HTML, CSS, and Python**  
+- 🚀 Currently learning JavaScript, Bootstrap, Tailwind, and modern web development  
+- 📚 Passionate about logic, organization, and self-learning  
+- 💼 Actively seeking internship opportunities in software development  
+- 🧠 Interested in personal growth, productivity, and long-term investing  
 - 🛠️ Currently working on my web project **Dars Academy**
 
 ---
@@ -59,9 +58,12 @@
 ## 🤝 Let's Connect
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/darwincf/" target="_blank">
+  <a href="https://www.linkedin.com/in/darwin-c%C3%A1rdenas-8a921a374/">
     <img src="https://img.shields.io/badge/LinkedIn-DarwinCF-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
+  <h3 align="left">📬 Mail</h3>
+
   <p>
     <img src="https://img.shields.io/badge/Gmail-%20darwinflorezcardenas@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </p>
@@ -78,9 +80,3 @@
 <div align="center">
   <b>“Discipline beats talent when talent doesn't discipline itself.”</b>
 </div>
-"""
-
-# Guardar el nuevo archivo
-readme_final_path = Path("/mnt/data/README_EN_FINAL.md")
-readme_final_path.write_text(readme_contact_simple, encoding='utf-8')
-readme_final_path
