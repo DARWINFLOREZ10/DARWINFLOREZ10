@@ -1,11 +1,12 @@
 <h1 align="center">Hi, I'm Darwin Cárdenas 👋</h1>
 
 <p align="center">
-  <strong>Junior Software Developer</strong> • Web & Backend Foundations • Discipline-driven learner
+  <strong>Backend Software Engineer</strong><br>
+  Building scalable backend systems, secure APIs, and cloud-based architectures.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in//">
+  <a href="https://www.linkedin.com/in/darwin-cardenas">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
   </a>
   <a href="mailto:darwinflorezcardenas@gmail.com">
@@ -15,71 +16,75 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm a **junior software developer** building a strong foundation in **web and backend development**.
+Backend Software Engineer focused on designing **scalable backend systems and production-ready APIs**.
 
-I believe in mastering fundamentals before chasing frameworks.  
-My focus is on **clean code, logical thinking, and long-term growth as an engineer**.
+I enjoy building software with **clean architecture, secure authentication systems, and modern cloud infrastructure**.
 
-- 🎓 Software Development student  
-- 🧠 Strong interest in logic, structure, and problem-solving  
-- 🧱 Building solid fundamentals before specialization  
-- 🚀 Currently improving my frontend and programming depth  
-- 📈 Long-term goal: become a high-impact software engineer  
-
----
-
-## 🧠 Core Skills
-
-### Programming Languages
-- **Java** (OOP, encapsulation, constructors, logic)
-- **JavaScript** (basics, DOM, logic in progress)
-- **Python** (foundations)
-- **C#** (basic understanding)
-- **SQL Server** (basic queries & structure)
-
-### Web Fundamentals
-- **HTML5** (semantic structure, accessibility basics)
-- **CSS3** (box model, flexbox, responsive layouts)
-- **TypeScript** (basic exposure)
+- 💻 Backend systems and API design  
+- 🔐 Secure authentication (JWT, RBAC)  
+- 🧱 Clean and layered architecture  
+- ☁️ Cloud deployments and containerized environments  
+- 📈 Continuous learning and long-term engineering growth
 
 ---
 
-## 🛠️ Tools & Workflow
+# 🛠 Tech Stack
 
-- Git & GitHub (version control, repositories)
-- VS Code
-- Linux (basic usage)
-- Markdown
+### Languages
+TypeScript • JavaScript • C# • Java • Python • SQL
+
+### Backend Development
+Node.js • Express • REST APIs • Authentication Systems • JWT • RBAC • Multi-tenant architectures
+
+### Databases
+PostgreSQL • SQL Server • Prisma ORM • Relational Data Modeling
+
+### Infrastructure & Cloud
+Docker • Docker Compose • Microsoft Azure • Containerized Deployments
+
+### Testing
+Jest • Supertest • Unit Testing • Integration Testing
 
 ---
 
-## 📚 Currently Working On
+# 🚀 Highlighted Projects
 
-- Strengthening **HTML, CSS, and JavaScript fundamentals**
-- Building **small to medium frontend projects**
-- Practicing **problem-solving and logic daily**
-- Improving code organization and readability
+### TeamFlow API
+Multi-tenant SaaS backend with authentication, RBAC permissions, and Redis caching.
+
+Tech: Node.js • TypeScript • PostgreSQL • Redis • Docker
 
 ---
 
-## 📊 GitHub Activity
+### Enterprise Backend
+Secure backend system implementing JWT authentication and role-based access control.
+
+Tech: Node.js • TypeScript • Express • PostgreSQL
+
+---
+
+### Financial System
+Backend system following Clean Architecture principles with financial reporting features.
+
+Tech: Java • SQL • Clean Architecture
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarwinCF-dev&show_icons=true&theme=tokyonight" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarwinCF-dev&layout=compact&theme=tokyonight" width="320"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DARWINFLOREZ10&show_icons=true&theme=tokyonight" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARWINFLOREZ10&layout=compact&theme=tokyonight" width="320"/>
 </p>
 
 ---
 
-## 🧭 Personal Philosophy
+# 🧠 Engineering Philosophy
 
-> *“I don’t rush technologies.  
-I build foundations that last.”*
-
----
+> Build software that is **secure, scalable, and maintainable**.
 
 <p align="center">
-  <sub>Discipline • Consistency • Long-term thinking</sub>
+  <sub>Clean Architecture • Scalable Systems • Continuous Learning</sub>
 </p>
