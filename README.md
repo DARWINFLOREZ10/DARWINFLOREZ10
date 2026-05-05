@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/darwin-cardenas">
+  <a href="https://www.linkedin.com/in/darwin-cardenas-florez-8a921a374/?locale=es">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
   </a>
   <a href="mailto:darwinflorezcardenas@gmail.com">
