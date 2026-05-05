@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Backend Software Engineer</strong><br>
-  Building scalable backend systems, secure APIs, and cloud-based architectures.
+  Building scalable SaaS systems, secure APIs, and production-ready backend architectures.
 </p>
 
 <p align="center">
@@ -16,59 +16,81 @@
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-Backend Software Engineer focused on designing **scalable backend systems and production-ready APIs**.
+Backend Software Engineer focused on building **scalable backend systems and production-grade SaaS architectures**.
 
-I enjoy building software with **clean architecture, secure authentication systems, and modern cloud infrastructure**.
+I specialize in designing systems with:
 
-- 💻 Backend systems and API design  
-- 🔐 Secure authentication (JWT, RBAC)  
-- 🧱 Clean and layered architecture  
-- ☁️ Cloud deployments and containerized environments  
-- 📈 Continuous learning and long-term engineering growth
+- ⚙️ **Multi-tenant architectures**
+- 🔐 **Secure authentication (JWT + RBAC)**
+- ⚡ **Caching and performance optimization (Redis)**
+- 🔄 **Background job processing (BullMQ / queues)**
+- 🧱 **Clean, modular, and layered architecture**
+- 🐳 **Containerized environments (Docker)**
+
+I enjoy solving backend challenges related to **scalability, performance, and system design**.
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
-TypeScript • JavaScript • C# • Java • Python • SQL
-
-### Backend Development
-Node.js • Express • REST APIs • Authentication Systems • JWT • RBAC • Multi-tenant architectures
+### Backend
+Node.js • TypeScript • Fastify • Express • REST APIs
 
 ### Databases
-PostgreSQL • SQL Server • Prisma ORM • Relational Data Modeling
+PostgreSQL • SQL Server • Prisma ORM • Relational Modeling
 
-### Infrastructure & Cloud
-Docker • Docker Compose • Microsoft Azure • Containerized Deployments
+### Caching & Queues
+Redis • BullMQ • Background Workers • Cache Strategies
 
-### Testing
-Jest • Supertest • Unit Testing • Integration Testing
+### Cloud & Infrastructure
+Docker • Docker Compose • Microsoft Azure
 
----
-
-# 🚀 Highlighted Projects
-
-### TeamFlow API
-Multi-tenant SaaS backend with authentication, RBAC permissions, and Redis caching.
-
-Tech: Node.js • TypeScript • PostgreSQL • Redis • Docker
+### Testing & Quality
+Jest • Integration Testing • Zod • ESLint
 
 ---
 
-### Enterprise Backend
-Secure backend system implementing JWT authentication and role-based access control.
+# 🔥 Featured Projects
 
-Tech: Node.js • TypeScript • Express • PostgreSQL
+## ⭐ SaaS Backend Architecture
+Production-grade multi-tenant SaaS backend system designed with scalability and security in mind.
+
+### Key Features:
+- Multi-tenant architecture with strict data isolation
+- JWT authentication with refresh token rotation
+- RBAC authorization system
+- Redis caching and session management
+- BullMQ background job processing
+- API rate limiting and health checks
+- Fully Dockerized environment
+
+**Tech Stack:**  
+Node.js • TypeScript • Fastify • PostgreSQL • Redis • BullMQ • Docker
 
 ---
 
-### Financial System
-Backend system following Clean Architecture principles with financial reporting features.
+## ⚙️ TeamFlow API
+Multi-tenant SaaS backend simulating a team and project management platform.
 
-Tech: Java • SQL • Clean Architecture
+### Key Features:
+- Multi-tenant system design
+- JWT authentication with refresh token rotation
+- Dynamic RBAC permission system
+- Redis caching
+- Docker-based deployment
+
+**Tech Stack:**  
+Node.js • TypeScript • Express • PostgreSQL • Redis • Docker
+
+---
+
+## 🔐 Enterprise Backend
+Secure backend system implementing authentication and role-based access control.
+
+**Tech Stack:**  
+Node.js • TypeScript • Express • PostgreSQL
 
 ---
 
@@ -81,10 +103,10 @@ Tech: Java • SQL • Clean Architecture
 
 ---
 
-# 🧠 Engineering Philosophy
+# 🧠 Engineering Focus
 
-> Build software that is **secure, scalable, and maintainable**.
+> Building backend systems that are **secure, scalable, and production-ready**.
 
 <p align="center">
-  <sub>Clean Architecture • Scalable Systems • Continuous Learning</sub>
+  <sub>SaaS Architecture • Distributed Systems • Backend Performance</sub>
 </p>
