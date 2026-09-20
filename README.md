@@ -1,6 +1,6 @@
 # Darwin Cardenas Florez
 
-Backend Software Engineer in Medellín, Colombia. I work with Python, TypeScript, APIs, relational data, and asynchronous processing. Since 2022, I have delivered software for paying clients and contributed to institutional systems at CESDE.
+Backend Software Engineer. I work with Python, TypeScript, APIs, relational data, and asynchronous processing. Since 2022, I have delivered software for paying clients and contributed to institutional systems at CESDE.
 
 I am interested in international backend roles, including remote positions and relocation opportunities. My portfolio projects below are separate from client work.
 
