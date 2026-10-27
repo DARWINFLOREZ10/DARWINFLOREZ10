@@ -2,7 +2,7 @@
 
 Backend Software Engineer in Medellín. I work on APIs, relational data, and the failures that show up once a write is no longer a single request: a duplicate delivery, two people saving the same row, and work that still has to finish after the response is gone.
 
-Since 2022 I have delivered software for paying clients. I am looking for international backend roles, including remote positions and relocation. The repositories below are portfolio systems. They are not client production, and I do not put a Senior title on work I have not held.
+Since 2022 I have delivered software for paying clients. I am looking for international backend roles, including remote positions and relocation. The repositories below are portfolio systems. They are not client production.
 
 ## Selected systems
 
@@ -14,13 +14,7 @@ Since 2022 I have delivered software for paying clients. I am looking for intern
 
 The portfolio is [darwin-cardenas.vercel.app](https://darwin-cardenas.vercel.app). The source lives in [darwin-cardenas](https://github.com/DARWINFLOREZ10/darwin-cardenas).
 
-Freelance backend work since 2022. A contract at CESDE from May 2025 to February 2026. Systems Engineering at Instituto Tecnológico Metropolitano, through 2026.
-
-## How I work
-
-- I put the tenant check in the query, not in a comment next to it.
-- The change and the work that has to follow it go in the same commit.
-- I write down what the system does not do, and what would have to change before a second host.
+Freelance backend work since 2022. It continued after the CESDE contract ended in February 2026. The three systems are the public work from that stretch. Contract at CESDE, May 2025 to February 2026. Systems Engineering degree, Instituto Tecnológico Metropolitano, 2022–2026.
 
 **Stack:** Python, FastAPI, TypeScript, Node.js, PostgreSQL, Redis, Docker. Next.js for the portfolio.
 
