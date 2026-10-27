@@ -6,13 +6,13 @@ Since 2022 I have delivered software for paying clients and contributed to insti
 
 ## Selected systems
 
-[RelayOps](https://github.com/DARWINFLOREZ10/relayops) takes a signed alert, attaches a storm to one open incident, and commits the notification with the incident. Tokens are tenant-scoped. A stale update returns 409. Dead letters are requeued on purpose. SQLite is the written limit: one host.
+[Alertfold](https://github.com/DARWINFLOREZ10/relayops) takes a signed alert, attaches a storm to one open incident, and commits the notification with the incident. Tokens are tenant-scoped. A stale update returns 409. Dead letters are requeued on purpose. SQLite is the written limit: one host.
 
 [ReleasePilot](https://github.com/DARWINFLOREZ10/releasepilot) is a flag control plane. A subject’s cohort is a hash, so raising the rollout does not reshuffle people already included. `enabled=false` beats the percentage. The change and its audit row commit together.
 
-[FlowForge](https://github.com/DARWINFLOREZ10/flowforge-platform) runs one workflow step off the request. Membership is a row, not a header. The run and the job commit together. A worker POSTs that step with an idempotency key and a retry budget.
+[Handoff](https://github.com/DARWINFLOREZ10/flowforge-platform) runs one workflow step off the request. Membership is a row, not a header. The run and the job commit together. A worker POSTs that step with an idempotency key and a retry budget.
 
-The portfolio site lives in [darwin-cardenas](https://github.com/DARWINFLOREZ10/darwin-cardenas).
+The portfolio is [darwin-cardenas.vercel.app](https://darwin-cardenas.vercel.app). The source lives in [darwin-cardenas](https://github.com/DARWINFLOREZ10/darwin-cardenas).
 
 ## How I work
 
