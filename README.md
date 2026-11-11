@@ -1,8 +1,8 @@
 # Darwin Cardenas Florez
 
-Backend Software Engineer in Medellín. I work on APIs, relational data, and the failures that show up once a write is no longer a single request: a duplicate delivery, two people saving the same row, and work that still has to finish after the response is gone.
+Backend Software Engineer in Medellín. I take one fixed engagement: move a single workflow step off the HTTP request, with a retry, an idempotency key, tests, and a written limit. 1,500 USD, half to start. The offer, the scope, and the proof are on [darwin-cardenas.vercel.app](https://darwin-cardenas.vercel.app).
 
-Since 2022 I have delivered software for paying clients. I am looking for international backend roles, including remote positions and relocation. The repositories below are portfolio systems. They are not client production.
+I am also open to international backend roles, including remote positions and relocation. Since 2022 I have delivered software for paying clients. The repositories below are portfolio systems. They are not client production.
 
 ## Selected systems
 
