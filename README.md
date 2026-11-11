@@ -1,6 +1,6 @@
 # Darwin Cardenas Florez
 
-Backend Software Engineer in Medellín. I take one fixed engagement: move a single workflow step off the HTTP request, with a retry, an idempotency key, tests, and a written limit. 1,500 USD, half to start. The offer, the scope, and the proof are on [darwin-cardenas.vercel.app](https://darwin-cardenas.vercel.app).
+Backend Software Engineer in Medellín. I take one fixed engagement: move a single workflow step off the HTTP request, with a retry, an idempotency key, tests, and a written limit. Starts at 2,500 USD for one flow, half to start. The offer, the scope, and the proof are on [darwin-cardenas.vercel.app](https://darwin-cardenas.vercel.app).
 
 I am also open to international backend roles, including remote positions and relocation. Since 2022 I have delivered software for paying clients. The repositories below are portfolio systems. They are not client production.
 
